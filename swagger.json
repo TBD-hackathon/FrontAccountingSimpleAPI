@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "title": "Front Accounting Simple API",
-        "description": "This is a simple REST API as a Front Accounting module [https://github.com/cambell-prince/FrontAccountingSimpleAPI](https://github.com/cambell-prince/FrontAccountingSimpleAPI).",
+        "description": "This is a simple REST API as a Front Accounting module.",
         "contact": {
             "email": "cambell.prince@gmail.com"
         },
