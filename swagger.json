@@ -3,6 +3,7 @@
     "info": {
         "title": "Front Accounting Simple API",
         "description": "This is a simple REST API as a Front Accounting module.",
+        "team": "bar",
         "contact": {
             "email": "cambell.prince@gmail.com"
         },
