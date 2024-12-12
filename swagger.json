@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "title": "Personalization API",
-        "description": "Advanced content personalization and recomendagion engine",
+        "description": "Advanced content personalization and recomendation engine",
         "team": "bar",
         "contact": {
             "email": "cambell.prince@gmail.com"
